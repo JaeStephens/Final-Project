@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300;400;500;600;700&family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+
+:root {
+    --Primary-font: 'Hind Vadodara', sans-serif;
+    --Secondary-font: 'Inria Sans', sans-serif;
+    --Card-username1: 16px;
+  }
+

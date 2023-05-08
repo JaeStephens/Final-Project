@@ -1,0 +1,13 @@
+.userTitle {
+    font-size: var(--Card-username1);
+}
+
+.userSubtitle {
+    font-family: var(--Secondary-font);
+}
+
+.userAvatar img {
+    height: 59px;
+    width: 59px;
+    padding: 0;
+}
